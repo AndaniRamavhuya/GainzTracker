@@ -1,0 +1,3 @@
+html, body, #root { min-height: 100%; }
+body { min-width: 320px; }
+button:focus-visible, input:focus-visible { outline: 3px solid #bff36b; outline-offset: 2px; }
