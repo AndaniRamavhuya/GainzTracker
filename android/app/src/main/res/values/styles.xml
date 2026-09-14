@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.GainzTracker" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#5B8C2A</item>
+        <item name="android:navigationBarColor">#16211D</item>
+    </style>
+</resources>
